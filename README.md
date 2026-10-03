@@ -1,6 +1,7 @@
 ## Tip Calculator App
 
 Learn topics
+- Update App icon
 - Added Switf UI components (Text, VStack, HStack, Slider, Text & TextField)
 - Learn state that auto update
 - Validation for number value
